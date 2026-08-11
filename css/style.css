@@ -1,0 +1,15 @@
+
+                body {
+                    background-color: rgba(50, 251, 238, 0.731);
+                    color: #637cf8;
+                    font-family: sans-serif;
+                }
+
+                h1 {
+                   background-color: white;
+                   color: #637cf8;
+                   padding: 30px;
+                   max-width: 450px;
+                   border-radius: 25px;
+
+                }
